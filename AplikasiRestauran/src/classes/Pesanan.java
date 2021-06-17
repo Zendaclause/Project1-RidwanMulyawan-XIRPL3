@@ -27,4 +27,17 @@ public class Pesanan {
     public String getKeterangan(){
         return "";
     }
+    
+    public Menu getMenu() {
+        return menu;
+    }
+    
+    
+
+    public int getJumlah() {
+        return jumlah;
+    }
+
+
+    
 }
