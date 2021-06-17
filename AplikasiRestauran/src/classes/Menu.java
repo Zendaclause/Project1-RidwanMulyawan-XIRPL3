@@ -10,17 +10,17 @@ package classes;
  * @author admin
  */
 public class Menu {
-    private String nama_menu;
+    private String nama_menu ;
     private double harga;
     private String kategori;
 
 
     public String getNama_menu(){
-        return nama_menu;
+        return nama_menu ;
     }
 
-    public void setNama_menu(String nama_menu){
-        this.nama_menu = nama_menu;
+    public void setNama_menu(String nama_menu ){
+        this.nama_menu  =nama_menu ;
     }
 
     public double getHarga(){
