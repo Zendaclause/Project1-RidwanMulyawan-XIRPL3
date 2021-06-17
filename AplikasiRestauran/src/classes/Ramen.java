@@ -7,7 +7,7 @@ package classes;
 
 /**
  *
- * @author admin
+ * @author ridwan
  */
 public class Ramen extends Menu{
     public Ramen(String nama_ramen, double harga){

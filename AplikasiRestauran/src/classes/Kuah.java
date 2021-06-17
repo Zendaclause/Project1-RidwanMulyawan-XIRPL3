@@ -7,7 +7,7 @@ package classes;
 
 /**
  *
- * @author admin
+ * @author ridwan
  */
 public class Kuah extends Menu{
     public Kuah(String nama_kuah){
